@@ -20,6 +20,6 @@ This project is a group chatting website that allows users to communicate with e
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/group-chatting-website.git
+   git clone https://github.com/imdj6/WeChat/
    
 
