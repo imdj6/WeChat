@@ -2,6 +2,10 @@
 
 This project is a group chatting website that allows users to communicate with each other in real-time. It is built using Socket.IO, Express.js, HTML, CSS, and JavaScript.
 
+
+Uploading WeChat - Realtime Node Socket.io chat App - Brave 2023-06-06 14-13-45.mp4…
+
+
 ## Features
 
 - Real-time messaging: Users can send and receive messages instantly without the need to refresh the page.
