@@ -5,10 +5,6 @@ This project is a group chatting website that allows users to communicate with e
 ## Features
 
 - Real-time messaging: Users can send and receive messages instantly without the need to refresh the page.
-- Multiple chat rooms: Users can join different chat rooms to communicate with specific groups of people.
-- User authentication: Users can create accounts, log in, and maintain their identity within the chat application.
-- User presence: The application shows online/offline status for each user.
-- Emojis and media support: Users can express themselves using emojis and share media files such as images and videos.
 - Responsive design: The website is designed to work seamlessly on different devices and screen sizes.
 
 ## Technologies Used
